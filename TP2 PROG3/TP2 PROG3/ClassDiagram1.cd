@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP2_PROG3.Acoplado" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Acoplado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Camion" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Categoria" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Cliente" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Compartimiento" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Compartimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.CompraRealizadaAProv" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>CompraRealizadaAProv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.ComprasDeClientes" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ComprasDeClientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Deposito" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAA=</HashCode>
+      <FileName>Deposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Dueño" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Dueño.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Empleado" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEQ=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Empresa" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAIAAEAAgICAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.EntradaCamion" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EntradaCamion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Envio" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAABAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Envio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Estante" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Estanteria" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Estanteria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Fecha" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Lado" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Localidad" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Localidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Maquina" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.MarcaCamion" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MarcaCamion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.MarcaMaquina" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MarcaMaquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.MarcaProducto" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MarcaProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.MateriaPrima" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MateriaPrima.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.MiEmpresa" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAgAQBAQAAAAAAAAAAABAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MiEmpresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Pais" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pais.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Pasillo" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAA=</HashCode>
+      <FileName>Pasillo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Pedido" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAAAAAAAAABgAAAAAAAAAAAAABEAAAAA=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Persona" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACAAAAAAAAAAAACAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Producto" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Proveedor" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAABA=</HashCode>
+      <FileName>Proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Provincia" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Provincia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Puesto" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Puesto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Repuesto" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repuesto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Stock" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Sueldo" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sueldo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Tarea" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABAAAAAAAQACAAAAAAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>Tarea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoCamion" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoCamion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoCliente" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoMaquina" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoMaquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoPedido" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>TipoPedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoProducto" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoProveedor" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.TipoTarea" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoTarea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Turno" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Turno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2_PROG3.Vehiculo" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
